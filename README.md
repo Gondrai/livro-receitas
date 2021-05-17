@@ -4,4 +4,5 @@
 
 - Strogonoff de frango :chicken:
 - Lasanha a bolonhesa :meat_on_bone:
+- Pavê :ice_cream:
 
